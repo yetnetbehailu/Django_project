@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-u7e59c7))!&zsw%)i26h_=6$(s3eyh75op6ifz!p1658n%aemx
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['yeti-django-todo-app.herokuapp.com']
 
 
 # Application definition
